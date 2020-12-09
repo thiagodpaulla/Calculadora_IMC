@@ -2,7 +2,7 @@
 ## CSS
 ## HTML
 ### CALCULADORA DE IMC
-### link da pagina https://thiagodpaulla.github.io/Calculadora_IMC.github.io/
+### link do projeto finalizado https://thiagodpaulla.github.io/Calculadora_IMC.github.io/
 
 
 Olá e seja bem vindo;
