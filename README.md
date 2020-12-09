@@ -20,4 +20,4 @@ Usei template strings `` ${} para incluir as variaveis e evitar ter que fazer mu
  
 No css eu usei um componente do bootstrap (framework web para html, css e js que tem como principal funcionalidade a responsavidade que a capacidade de se adpatar a diferentes dimenções de telas ou dieferentes dispositivos) chamado container que faz com que o layout fique alinhado no centro da pagina, posiciona o contenudo no centro do brouwser.
 
-Usei o comando (cursor:pointer) dentro do button o que permitiu que o cursor do mouse mudase sua forma de ceta para a (mãozinha).
+Usei o comando (cursor:pointer) dentro do button o que permitiu que o cursor do mouse mudase sua forma de seta para a (mãozinha).
