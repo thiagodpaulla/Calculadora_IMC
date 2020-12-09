@@ -5,7 +5,7 @@
 
 Olá e seja bem vindo;
 
-este é um projeto de uma calculadora de imc 
+Este é um projeto de uma calculadora de imc 
 Os parametros foram retirados do site do minsterio da saude 
 link http://tabnet.datasus.gov.br/cgi-win/SISVAN/CNV/notas_sisvan.html#:~:text=Valores%20de%20IMC%20abaixo%20de,%2C0%3A%20adulto%20com%20obesidade.
 
