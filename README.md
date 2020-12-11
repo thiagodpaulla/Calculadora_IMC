@@ -1,11 +1,23 @@
-# Java Script 
-## CSS
-## HTML
-### CALCULADORA DE IMC
-### link do projeto finalizado https://thiagodpaulla.github.io/Calculadora_IMC.github.io/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
+
+# Olá e seja bem vindo ao  meu repositório
+## Conheça  .....
+![](https://github.com/thiagodpaulla/Calculadora_IMC.github.io/blob/main/Calculadora%20de%20IMC.gif)
+
+## Fique a vontade para interagir com o projeto no link:
+https://thiagodpaulla.github.io/Calculadora_IMC.github.io/
+
+### Entenda um pouco mais sobre como foi criado.
+
+<!--ts-->
+ * [Projeto](#projeto)  
+ * [Tecnologias](#tecnologias) 
+ * [Licença](#licenca) 
+ <!--te-->
 
 
-Olá e seja bem vindo;
+# Projeto
+💻
 
 
 Este é um projeto de uma calculadora de imc 
@@ -26,3 +38,18 @@ No css eu usei um componente do bootstrap (framework web para html, css e js que
 
 
 Usei o comando (cursor:pointer) dentro do button o que permitiu que o cursor do mouse mudase sua forma de seta para a (mãozinha).
+
+# Tecnologias
+
+🚀 O projeto foi desenvolvido usando as seguintes tecnologias
+
+
+➜ JavaScript
+
+➜ HTML
+
+➜ CSS
+
+
+# Licença
+📂 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
