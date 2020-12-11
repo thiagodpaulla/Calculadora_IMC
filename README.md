@@ -12,7 +12,7 @@ https://thiagodpaulla.github.io/Calculadora_IMC.github.io/
 <!--ts-->
  * [Projeto](#projeto)  
  * [Tecnologias](#tecnologias) 
- * [Licença](#licenca) 
+ * [Licença](#licença) 
  <!--te-->
 
 
