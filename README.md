@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
 # Olá e seja bem vindo ao  meu repositório
-## Conheça  .....
+## Conheça  Calculadora de imc
 ![](https://github.com/thiagodpaulla/Calculadora_IMC.github.io/blob/main/Calculadora%20de%20IMC.gif)
 
 ## Fique a vontade para interagir com o projeto no link:
